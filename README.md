@@ -347,3 +347,4 @@ This template uses [Remix](https://remix.run). The following Shopify tools are a
 "# shopify_apps" 
 "# shopify_apps" 
 "# shopify" 
+"# shopify" 
